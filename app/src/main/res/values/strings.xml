@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Parcelize Annotation Sample</string>
+    <string name="action_settings">Settings</string>
+</resources>
