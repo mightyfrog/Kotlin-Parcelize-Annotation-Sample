@@ -30,4 +30,5 @@ dependencies {
 
 androidExtensions {
     experimental = true
+//    features = ["parcelize"] // uncomment me to disable view binding
 }
